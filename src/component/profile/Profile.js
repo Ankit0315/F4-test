@@ -55,7 +55,7 @@ const Profile = () => {
             ):( <div>
                  <p id="fullname">Fullname : </p>
             <p id="email">Email : </p>
-            <p id="password">Password }</p>
+            <p id="password">Password </p>
             </div>)}
             
             <button id="button" onClick={handleLogout}> Logout</button>
